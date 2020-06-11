@@ -31,14 +31,15 @@ Here are the steps to success!
 
 #### React
 1. Run `npm i --save react-redux @material-ui/core axios redux-logger redux-promise-middleare`
-2. Follow online tutorial to install `storyboook` for react [Intermediate]
-3. Create a classified ad component via storybook that has the `Person` name, `Person` phone, and `ClassifiedAd` ad. [Complex]
-4. Create a dashboard that renders all classified ads (GET /classifieds) [Complicated]
-5. Add to the dashboard an appbar with a title and a menu that allows you to navigate to `Add Person` and `Create Ad` [Complicated]
-6. When clicking `Add Person`, navigate to a empty `Add Person` view [Complex]
-7. When clicking `Create Ad`, navigate to an empty `Create Ad` view [Complex]
-8. For `Add Person`, create a form that collects `name`, `phone`, and POSTs to `/persons` [Complicated]
-9. For `Create Ad`, present a form that allows text up to 250 characters (does not have to be enforced), and allows them to select the person from a list of persons (GET /persons). When they hit save, do a `POST /classifieds`. [Complicated]
+2. Set up the redux basics (store and provider) [Complex]
+3. Follow online tutorial to install `storyboook` for react [Intermediate]
+4. Create a classified ad component via storybook that has the `Person` name, `Person` phone, and `ClassifiedAd` ad. [Complex]
+5. Create a dashboard that renders all classified ads (GET /classifieds) [Complicated]
+6. Add to the dashboard an appbar with a title and a menu that allows you to navigate to `Add Person` and `Create Ad` [Complicated]
+7. When clicking `Add Person`, navigate to a empty `Add Person` view [Complex]
+8. When clicking `Create Ad`, navigate to an empty `Create Ad` view [Complex]
+9. For `Add Person`, create a form that collects `name`, `phone`, and POSTs to `/persons` [Complicated]
+10. For `Create Ad`, present a form that allows text up to 250 characters (does not have to be enforced), and allows them to select the person from a list of persons (GET /persons). When they hit save, do a `POST /classifieds`. [Complicated]
 
 #### Team Principle Expectations
 
