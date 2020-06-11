@@ -48,6 +48,3 @@ Here are the steps to success!
 4. Maturity - If you estimate a work load to be say 1 hour and you are stuck and havent coded in 45 minutes, ask for help!
 5. Quality Baked In - Handle all possible response codes in your UI, etc.
 6. No Turd Launching - Commit early and often, get code reviews before you do the next ticket item. Max ticket WIP is 2, but I suggest 1 ticket at a time. So make sure your commits are easy to read. Meaning you commit a single topic at a time, not a whole file of multiple things.
-
-#### API Development (Simple)
-Use the stoplight studio to design
