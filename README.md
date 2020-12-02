@@ -26,9 +26,6 @@ Here are the steps to success!
 7. Test routes in api-docs [Beginner]
 
 
-#### Rails
-1.
-
 #### React
 1. Run `npm i --save react-redux @material-ui/core axios redux-logger redux-promise-middleare`
 2. Set up the redux basics (store and provider) [Complex]
